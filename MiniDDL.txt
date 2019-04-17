@@ -25,7 +25,7 @@ create table Shipper(
 	rating number(8),
 	ddate date,
 	primary key(ship_id)
-);
+ );
 
 create table XOrder(
 	ddate date ,
